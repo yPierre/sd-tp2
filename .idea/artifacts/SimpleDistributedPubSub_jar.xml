@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleDistributedPubSub:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/SimpleDistributedPubSub_jar</output-path>
+    <root id="archive" name="SimpleDistributedPubSub.jar">
+      <element id="module-output" name="SimpleDistributedPubSub" />
+    </root>
+  </artifact>
+</component>
